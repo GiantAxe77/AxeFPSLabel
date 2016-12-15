@@ -1,2 +1,2 @@
 # AxeFPSLabel
-检测FPS小工具
+监测FPS小工具
